@@ -128,11 +128,17 @@
   .two-column-image {
     width: 38%;
     margin: 0 auto;
+    padding: 10px 0 0 30px;
   }
   
   
   .two-column-desc {
     width: 57%;
+    padding-left: 30px;
+  }
+  
+  .text {
+    font-size: 18px;
   }
   
   
@@ -160,7 +166,11 @@
     font-size: 12px;
   }
   
-  #works .card-caption-url {
+  #works .card-caption-url1 {
+    font-size: 15px;
+  }
+  
+  #works .card-caption-url2 {
     font-size: 10px;
   }
   
