@@ -137,6 +137,26 @@
     padding-left: 30px;
   }
   
+  @media screen and (max-width:630px) {
+    .two-column-wrapper {
+      width: 100%;
+      margin: 0 auto;
+      padding: 20px 0;
+      display: inline-block;
+    }
+  
+    .two-column-image {
+      text-align: center;
+      margin: 0 auto;
+      padding: 10px 0 0 0;
+    }
+    
+    
+    .two-column-desc {
+      margin: 0 auto;
+    }
+  }
+  
   .text {
     font-size: 18px;
   }
